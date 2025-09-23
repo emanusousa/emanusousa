@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">💻 Studying Computer Science (5/8) at CESAR School.<br>💾 I’m currently learning: HTML & CSS, C and JavaScript.</p>
+<p align="center">💻 Studying Computer Science (6/8) at CESAR School.<br>💾 I’m currently learning: HTML & CSS, C and JavaScript.</p>
 
 ###
 
